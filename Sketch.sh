@@ -1,14 +1,4 @@
-#!/bin/bash
-
-cd $HOME
-
-mkdir storage/dcim/sketch
-
-cd $HOME
-
-pip install opencv-python
-
-cd sketch
+#!/bin/bash 
 
 cp sketch.py ~/storage/dcim/sketch/
 
